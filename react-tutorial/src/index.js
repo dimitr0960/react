@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Lesson from './03_components/Lesson.jsx';
+import Lesson from './04_props/Lesson.jsx';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(<Lesson />, document.getElementById('root'));
