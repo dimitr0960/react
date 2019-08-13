@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import { App } from "./06_events/Lesson";
+import Lesson from "./07_rendering/Lesson";
 import * as serviceWorker from './serviceWorker';
 
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(<Lesson />, document.getElementById('root'));
 
 
 // If you want your app to work offline and load faster, you can change
